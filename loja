@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <titl>loja exemplo - inicio</title>
+<head>
+<body>
+    <header>
+        <h1>techstore brasil</h1>
+        <p>sau loja de tecnologia e componentes</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">inicio</a></li>
+                <li><a href="sobre.html">sobre a loja </a></li>
+                <li<a href="contato.html">contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>destaque da semana</h2>
+            <p>confira nossos produtos em oferta especial nesta semana</p>
+
+            <article>
+                <h3>headset sem fio surroud</h3>
+                    <img src="headset.jpg" alt="Headset circumaural sem fio na cor preta" width="300">
+                <p>Áudio imersivo e bateria de longa duração.</p>
+                <p><strong>Preço: R$ 320,00</strong></p>
+                <a href="contato.html">Comprar / Consultar Estoque</a>
+            </article>
+        </section>
+
+        <section>
+            <h2>Categorias Populares</h2>
+            <ul>
+                <li>Periféricos</li>
+                <li>Hardware de Computadores</li>
+                <li>Acessórios Mobile</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <hr>
+        <p>&copy; 2026 TechStore Brasil. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
